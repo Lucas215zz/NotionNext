@@ -9,7 +9,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '欢迎来到趣派跨境电商学苑社区', url: 'https://notion-next-chi-weld.vercel.app/' },
-    { title: '访问文档中心获取更多帮助', url: 'https://notion-next-chi-weld.vercel.app/' }
+    { title: '陪跑跨境企业，实现营业额倍增', url: 'https://notion-next-chi-weld.vercel.app/' }
   ],
 
   // 英雄区左右侧组件颠倒位置
