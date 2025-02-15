@@ -1,11 +1,3 @@
-/**
- *   HEO 主题说明
- *  > 主题设计者 [张洪](https://zhheo.com/)
- *  > 主题开发者 [tangly1024](https://github.com/tangly1024)
- *  1. 开启方式 在blog.config.js 将主题配置为 `HEO`
- *  2. 更多说明参考此[文档](https://docs.tangly1024.com/article/notionnext-heo)
- */
-
 import Comment from '@/components/Comment'
 import { AdSlot } from '@/components/GoogleAdsense'
 import { HashTag } from '@/components/HeroIcons'
@@ -183,6 +175,20 @@ const LayoutArchive = props => {
 }
 
 /**
+ * 分类页面
+ * @param {*} props
+ * @returns
+ */
+const LayoutCategoryIndex = props => {
+  return (
+    <div>
+      <h1>分类页面</h1>
+      <p>这是文章分类页面。</p>
+    </div>
+  );
+}
+
+/**
  * 博客列表
  * @param {*} props
  * @returns
@@ -204,8 +210,8 @@ const LayoutPostList = props => {
 export {
   Layout404,
   LayoutArchive,
-  LayoutBase,
   LayoutCategoryIndex,
+  LayoutBase,
   LayoutIndex,
   LayoutPostList,
   LayoutSearch,
