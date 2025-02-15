@@ -152,6 +152,23 @@ const LayoutIndex = props => {
 };
 
 /**
+ * 404 页面
+ * @param {*} props
+ * @returns
+ */
+const Layout404 = () => {
+  return (
+    <div>
+      <h1>404 页面 - 页面未找到</h1>
+      <p>请尝试返回首页</p>
+      <Link href="/">
+        <button>回到首页</button>
+      </Link>
+    </div>
+  );
+}
+
+/**
  * 博客列表
  * @param {*} props
  * @returns
@@ -169,8 +186,6 @@ const LayoutPostList = props => {
     </div>
   )
 }
-
-// 继续其余部分代码...
 
 export {
   Layout404,
