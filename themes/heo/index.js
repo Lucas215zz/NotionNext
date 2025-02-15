@@ -169,6 +169,20 @@ const Layout404 = () => {
 }
 
 /**
+ * 归档页面
+ * @param {*} props
+ * @returns
+ */
+const LayoutArchive = props => {
+  return (
+    <div>
+      <h1>归档页面</h1>
+      <p>这是文章归档页面。</p>
+    </div>
+  );
+}
+
+/**
  * 博客列表
  * @param {*} props
  * @returns
@@ -199,4 +213,3 @@ export {
   LayoutTagIndex,
   CONFIG as THEME_CONFIG
 }
-
