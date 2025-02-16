@@ -20,7 +20,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享TikTok运营知识',
   HEO_HERO_TITLE_2: '提升思维认知',
-  HEO_HERO_TITLE_3: 'SZKJDSXY.COM',
+  HEO_HERO_TITLE_3: 'www.szkjdsxy.tech',
   HEO_HERO_TITLE_4: '视频带货线上课',
   HEO_HERO_TITLE_5: '2025年这堂课带你从 0 到 1 做TikTok视频带货',
   HEO_HERO_TITLE_LINK: 'https://www.szkjdsxy.tech/',
