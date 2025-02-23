@@ -8,8 +8,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到趣派跨境电商学苑社区', url: 'https://www.szkjdsxy.tech/' },
-    { title: '陪跑跨境企业，实现营业额倍增', url: 'https://www.szkjdsxy.tech/' }
+    { title: '趣派跨境电商学苑社区', url: 'https://www.qpkjdsxy.com/' },
+    { title: '陪跑跨境企业，实现营业额倍增', url: 'https://www.qpkjdsxy.com/' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -20,10 +20,10 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享TikTok运营知识',
   HEO_HERO_TITLE_2: '提升思维认知',
-  HEO_HERO_TITLE_3: 'www.szkjdsxy.tech',
+  HEO_HERO_TITLE_3: 'www.qpkjdsxy.com',
   HEO_HERO_TITLE_4: '视频带货线上课',
   HEO_HERO_TITLE_5: '2025年这堂课带你从 0 到 1 做TikTok视频带货',
-  HEO_HERO_TITLE_LINK: 'https://www.szkjdsxy.tech/',
+  HEO_HERO_TITLE_LINK: 'https://www.qpkjdsxy.com/',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
@@ -51,9 +51,9 @@ const CONFIG = {
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://www.szkjdsxy.tech//',
+  HEO_INFO_CARD_URL2: 'https://www.qpkjdsxy.com/',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://www.szkjdsxy.tech/',
+  HEO_INFO_CARD_URL3: 'https://www.qpkjdsxy.com/',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
@@ -120,7 +120,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://www.szkjdsxy.tech/',
+  HEO_SOCIAL_CARD_URL: 'https://www.qpkjdsxy.com/article/1a39f53d-5522-807b-b95a-ca09ad17c470',
 
   // 底部统计面板文案
   HEO_POST_COUNT_TITLE: '文章数:',
