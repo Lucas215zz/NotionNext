@@ -22,8 +22,8 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '提升思维认知',
   HEO_HERO_TITLE_3: 'www.qpkjdsxy.com',
   HEO_HERO_TITLE_4: '视频带货线上课',
-  HEO_HERO_TITLE_5: '2025年这堂课带你从 0 到 1 做TikTok视频带货',
-  HEO_HERO_TITLE_LINK: 'https://www.qpkjdsxy.com/',
+  HEO_HERO_TITLE_5: '2025年这堂课带你从0到1做TikTok视频带货',
+  HEO_HERO_TITLE_LINK: 'https://www.szkjdsxy.com/?mcv_course=%e7%9f%ad%e8%a7%86%e9%a2%91%e5%b8%a6%e8%b4%a7%e7%9a%84%e5%bf%ab%e9%80%9f%e8%b5%b7%e9%87%8f%e7%a7%98%e8%af%80/',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
